@@ -3,7 +3,7 @@
 # Participants should fill in the 'status', 'evidence', and 'notes' fields for each requirement.
 
 metadata:
-  kubernetesVersion: v1.34
+  kubernetesVersion: v1.33
   platformName: "metal-stack"
   platformVersion: "v0.22.1"
   vendorName: "x-cellent technologies GmbH"
@@ -18,7 +18,7 @@ spec:
   accelerators:
     - id: dra_support
       description: "Support Dynamic Resource Allocation (DRA) APIs to enable more flexible and fine-grained resource requests beyond simple counts."
-      level: MUST
+      level: SHOULD
       status: ""   # Implemented, Not Implemented, Partially Implemented, N/A
       evidence: [] # List of URLs or references to documentation/test results
       notes: ""    # Must provide a justification when status is N/A
