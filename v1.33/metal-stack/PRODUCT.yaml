@@ -5,7 +5,7 @@
 metadata:
   kubernetesVersion: v1.33
   platformName: "metal-stack"
-  platformVersion: "v0.22.1"
+  platformVersion: "v0.22.2"
   vendorName: "x-cellent technologies GmbH"
   websiteUrl: "https://metal-stack.io"
   repoUrl: "https://github.com/metal-stack/releases"
